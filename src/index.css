@@ -31,3 +31,24 @@ code {
 .header-main {
   background-color: #f9fafe;
 }
+
+.side-nav-header .Link {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.active {
+  color: white !important;
+}
+
+/* .side-nav-header .Link:hover, */
+.side-nav-header .Link:focus,
+.side-nav-header .Link:active {
+  background-color: #0ea5e9 !important;
+  color: white !important;
+}
+
+header {
+  background-image: linear-gradient(to-right, #deebfd52, #f1f5fe13);
+}

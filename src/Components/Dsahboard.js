@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 
-const Dsahboard = () => {
+const Dashboard = () => {
   return (
     <>
       <Header />
@@ -9,4 +9,4 @@ const Dsahboard = () => {
   );
 };
 
-export default Dsahboard;
+export default Dashboard;
